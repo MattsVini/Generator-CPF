@@ -1,6 +1,6 @@
 from person import Person
 from region import Region
-from CPF import CPF
+from cpf import CPF
 import time
 name = input("What is your full name? ")
 age = int(input("How old are you? "))
