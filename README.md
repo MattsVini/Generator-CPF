@@ -14,12 +14,12 @@ This project generates **valid** CPF numbers according to the official rules of 
 
 # Demo
 **Type input**
-- ![img_3.png](img_3.png)
-- ![img_4.png](img_4.png)
+- ![img_3.png](assets/img_3.png)
+- ![img_4.png](assets/img_4.png)
 
 **Input invalid!? No worries!**
 
--![img_5.png](img_5.png)
+-![img_5.png](assets/img_5.png)
 
-- ![img_8.png](img_8.png)
-- ![img_9.png](img_9.png)
+- ![img_8.png](assets/img_8.png)
+- ![img_9.png](assets/img_9.png)

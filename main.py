@@ -20,8 +20,10 @@ identification = CPF()
 calc_cpf = identification.linking_reg(state)
 update1 = identification.emission_reg(calc_cpf)
 identification.update_cpf(update1)
+
 print("Validation", end="")
 for x in range(5):
     print('.', end="")
     time.sleep(1)
+
 print(f"\nYour CPF: {identification.get_cpf()}")
